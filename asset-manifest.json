@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://juanvs23.github.io/use-reducer-crud-example/static/js/main.113b5986.chunk.js",
-    "main.js.map": "https://juanvs23.github.io/use-reducer-crud-example/static/js/main.113b5986.chunk.js.map",
+    "main.js": "https://juanvs23.github.io/use-reducer-crud-example/static/js/main.d98a07da.chunk.js",
+    "main.js.map": "https://juanvs23.github.io/use-reducer-crud-example/static/js/main.d98a07da.chunk.js.map",
     "runtime-main.js": "https://juanvs23.github.io/use-reducer-crud-example/static/js/runtime-main.dba0fa7f.js",
     "runtime-main.js.map": "https://juanvs23.github.io/use-reducer-crud-example/static/js/runtime-main.dba0fa7f.js.map",
     "static/css/2.64bc1a7e.chunk.css": "https://juanvs23.github.io/use-reducer-crud-example/static/css/2.64bc1a7e.chunk.css",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dba0fa7f.js",
     "static/css/2.64bc1a7e.chunk.css",
     "static/js/2.2a4c6323.chunk.js",
-    "static/js/main.113b5986.chunk.js"
+    "static/js/main.d98a07da.chunk.js"
   ]
 }
