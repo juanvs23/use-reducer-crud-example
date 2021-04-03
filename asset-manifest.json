@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/use-reducer-crud-example/static/js/main.113b5986.chunk.js",
+    "main.js.map": "/use-reducer-crud-example/static/js/main.113b5986.chunk.js.map",
+    "runtime-main.js": "/use-reducer-crud-example/static/js/runtime-main.c9bfea26.js",
+    "runtime-main.js.map": "/use-reducer-crud-example/static/js/runtime-main.c9bfea26.js.map",
+    "static/css/2.398ed0cf.chunk.css": "/use-reducer-crud-example/static/css/2.398ed0cf.chunk.css",
+    "static/js/2.2a4c6323.chunk.js": "/use-reducer-crud-example/static/js/2.2a4c6323.chunk.js",
+    "static/js/2.2a4c6323.chunk.js.map": "/use-reducer-crud-example/static/js/2.2a4c6323.chunk.js.map",
+    "index.html": "/use-reducer-crud-example/index.html",
+    "static/css/2.398ed0cf.chunk.css.map": "/use-reducer-crud-example/static/css/2.398ed0cf.chunk.css.map",
+    "static/js/2.2a4c6323.chunk.js.LICENSE.txt": "/use-reducer-crud-example/static/js/2.2a4c6323.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/use-reducer-crud-example/static/media/bootstrap-icons.0f69dcdb.woff",
+    "static/media/logo.6ce24c58.svg": "/use-reducer-crud-example/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9bfea26.js",
+    "static/css/2.398ed0cf.chunk.css",
+    "static/js/2.2a4c6323.chunk.js",
+    "static/js/main.113b5986.chunk.js"
+  ]
+}
